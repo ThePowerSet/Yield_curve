@@ -1,4 +1,4 @@
-# Yeald_curve construction from swap data
+# Yield_curve construction from swap data
 
 main dependencies are rateslib, numpy and pandas
 
