@@ -14,6 +14,4 @@ pip install -r requirements.txt
 
 ### Note: Everything is tested with `Python Version : 3.12.2`
 
-You can find more info on the repository structure in the `repo_structure.md` file 
-
 You can find more info on the repository structure in the `repo_structure.md` file, the raw code is more readable than the preview.
