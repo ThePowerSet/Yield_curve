@@ -2,7 +2,7 @@
 
 main dependencies are rateslib, numpy and pandas
 
-In order to run the code, clone the repository, and set the cd to the path of the local path of the cloned repository.
+In order to run the code, clone the repository, and set the cd to the local path of the cloned repository.
 
 ## Installation
 
